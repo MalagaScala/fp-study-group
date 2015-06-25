@@ -4,6 +4,8 @@
 
 Nuestro grupo de estudio estará basado en el libro [_Functional Programing in Scala_](http://www.manning.com/bjarnason/), aka _libro rojo_. Pensamos que dicho libro cumplirá con nuestro objetivo: comprender y aplicar programación funcional. Como ya se ha mencionado en nuestra primera _meetup_, el libro se basa en sintaxis de _Scala_, esto no quiere decir que el objetivo sea este, aprender a codificar en _Scala_, más bien el lenguaje en sí es simplemente un medio, nuestro objetivo principal es que se comprenda el paradigma.
 
+Sin embargo, sabemos que quizá determinados aspectos del lenguaje y sus herramientas pueden resultar difíciles. Un buen recurso es consultar los enlaces y tutoriales del curso online [Functional Programming Principles in Scala](https://class.coursera.org/progfun-005). Si tienes alguna duda, no tienes más que dejarte caer por nuestro Gitter.
+
 Por ese motivo pensamos que este libro es ideal para comenzar nuestro grupo de estudio, además de que su temática y ejercicios son de muy buena calidad. No somos la única comunidad que ha basado su grupo de estudio alrededor de este libro, existen alrededor del mundo muchas otras comunidades de _Scala_ las cuales se basan en dicho libro.
 
 A continuación vamos a explicar cómo se va a desarrollar el grupo de estudio.
