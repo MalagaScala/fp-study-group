@@ -2,7 +2,7 @@
 
 [![Join the chat at https://gitter.im/MalagaScala/fp-study-group](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/MalagaScala/fp-study-group?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-Nuestro grupo de estudio estará basado en el libro _Functional Programing in Scala_, aka _libro rojo_. Pensamos que dicho libro cumplirá con nuestro objetivo: comprender y aplicar programación funcional. Como ya se ha mencionado en nuestra primera _meetup_, el libro se basa en sintaxis de _Scala_, esto no quiere decir que el objetivo sea este, aprender a codificar en _Scala_, más bien el lenguaje en sí es simplemente un medio, nuestro objetivo principal es que se comprenda el paradigma.
+Nuestro grupo de estudio estará basado en el libro [_Functional Programing in Scala_](http://www.manning.com/bjarnason/), aka _libro rojo_. Pensamos que dicho libro cumplirá con nuestro objetivo: comprender y aplicar programación funcional. Como ya se ha mencionado en nuestra primera _meetup_, el libro se basa en sintaxis de _Scala_, esto no quiere decir que el objetivo sea este, aprender a codificar en _Scala_, más bien el lenguaje en sí es simplemente un medio, nuestro objetivo principal es que se comprenda el paradigma.
 
 Por ese motivo pensamos que este libro es ideal para comenzar nuestro grupo de estudio, además de que su temática y ejercicios son de muy buena calidad. No somos la única comunidad que ha basado su grupo de estudio alrededor de este libro, existen alrededor del mundo muchas otras comunidades de _Scala_ las cuales se basan en dicho libro.
 
