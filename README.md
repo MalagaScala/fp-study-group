@@ -8,6 +8,8 @@ Por ese motivo pensamos que este libro es ideal para comenzar nuestro grupo de e
 
 A pesar de todo esto, sabemos que quizá determinados aspectos del lenguaje y sus herramientas pueden resultar difíciles. Un buen recurso es consultar los enlaces y tutoriales del curso online [Functional Programming Principles in Scala](https://class.coursera.org/progfun-005). Si tienes alguna duda, no tienes más que dejarte caer por nuestro Gitter.
 
+![La Larga Marcha](https://pbs.twimg.com/media/CIuxVSmUkAALuC9.jpg)
+
 A continuación vamos a explicar cómo se va a desarrollar el grupo de estudio.
 
 # 1. Pedido
