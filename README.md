@@ -14,28 +14,12 @@ A continuación vamos a explicar cómo se va a desarrollar el grupo de estudio.
 
 # 1. Pedido
 
-El pedido del libro se hará de forma conjunta a: http://www.manning.com/ Al hacerlo de esta forma podemos obtener una serie de descuentos basados en el número de libros que se pidan: http://www.manning.com/about/orderinfo.html
+Tras la mala experiencia con Correos en la entrega del primer pedido, hemos decidido no repetir la experiencia. Así que tienes dos opciones:
 
-```
-Discounted bulk orders for printed books and eBooks can be placed by contacting us via email. Following is the discount schedule for quantities of 10 or more printed copies:
+1. Comprarlo en [Amazon.es](http://www.amazon.es/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
+2. Comprarlo en [la web de Manning's](https://www.manning.com/books/functional-programming-in-scala) con nuestro código de descuento del 36%.
 
-10-49	35%
-50-99	40%
-100-299	45%
-300-499	50%
-500-999	55%
-1000+	Please contact us for special pricing.
-```
-Para hacerlo de una manera organizada hemos pensado lo siguiente:
-
-* **La fecha límite será el Martes 30/06/2015 10:00AM**
-* La compra será realizada a través de una cuenta personal de _PayPal_, para ellos usaremos la funcionalidad _solicitar dinero_.
-* El importe que se solicitará irá en función del numero de pedidos que realicemos ya que irá aplicado un descuento distinto. Para ello antes de nada, **deberéis enviar un correo electrónico a la siguiente dirección: ```malaga dot scala at gmail dot com```** donde nos deberéis: 
-  * Vuestra cuenta de _PayPal_
-  * Dirección postal para el envío de este
-Una vez que tengamos toda la información y el número total de personas, iremos solicitando el importe a vuestras respectivas cuentas.
-
-Evidentemente, los ejemplares se puede pedir de forma individual, pero sin el debido descuento.
+Si te interesa comprarlo con descuento, pídenos el código en el canal de Gitter.
 
 # 2. Organización
 
