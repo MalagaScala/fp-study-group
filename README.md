@@ -14,7 +14,7 @@ A continuación vamos a explicar cómo se va a desarrollar el grupo de estudio.
 
 # 1. Pedido
 
-Tras la mala experiencia con Correos en la entrega del primer pedido, hemos decidido no repetir la experiencia. Así que tienes dos opciones:
+Tras la mala experiencia con Correos en la entrega del primer pedido, hemos decidido no repetir. Así que tienes dos opciones:
 
 1. Comprarlo en [Amazon.es](http://www.amazon.es/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
 2. Comprarlo en [la web de Manning's](https://www.manning.com/books/functional-programming-in-scala) con nuestro código de descuento del 36%.
