@@ -17,9 +17,9 @@ A continuación vamos a explicar cómo se va a desarrollar el grupo de estudio.
 Tras la mala experiencia con Correos en la entrega del primer pedido, hemos decidido no repetir. Así que tienes dos opciones:
 
 1. Comprarlo en [Amazon.es](http://www.amazon.es/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653)
-2. Comprarlo en [la web de Manning's](https://www.manning.com/books/functional-programming-in-scala) con nuestro código de descuento del 36%.
+2. Comprarlo en [la web de Manning's](https://www.manning.com/books/functional-programming-in-scala) con nuestro código de descuento del 36%, válido para versiones físicas y electrónicas.
 
-Si te interesa comprarlo con descuento, pídenos el código en el canal de Gitter.
+Si te interesa comprarlo con descuento, pídenos el código en el canal de Gitter. Si ves que, pese a todo, no puedes afrontar el pago del libro, habla con cualquiera de los organizadores del grupo de Meetup.
 
 # 2. Organización
 
